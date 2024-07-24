@@ -24,7 +24,7 @@ Got ideas? Fork, improve, and submit a pull request! 🎉
 ## 📞 Contact
 
 - **Priyanshi Nakrani**
-- Email: priyanshinakrani@example.com
+- Email: priyanshinakrani@gmail.com
 - GitHub: [PriyanshiNakrani](https://github.com/PriyanshiNakrani)
 
 Enjoy the music! 🎼
